@@ -10,7 +10,7 @@ If you'd like to support Advent of Code, you can do so indirectly by helping toÂ
 
 This is repository for my Advent of Code solutions. Here are the years I participated in:
 
-- [2022](https://github.com/dinogrgic1/aoc/aoc2022)
+- [2022](https://github.com/dinogrgic1/aoc/tree/main/aoc2022)
 	- Status: 20â˜…
 	- Language: Rust (some Python)
 	- Goal: learning Rust
